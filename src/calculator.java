@@ -87,9 +87,10 @@ public class calculator {
                         break;
                     }
                     System.out.println("Modulo" + (num9 % num10));
+                    break;
             default:
                 System.out.println("Invalid input");
-                break;
+
         }
     }
 }
